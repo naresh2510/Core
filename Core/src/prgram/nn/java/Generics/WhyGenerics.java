@@ -7,6 +7,7 @@ public class WhyGenerics {
 	private String names[]= new String[100];
 	private ArrayList namesAl = new ArrayList();
 	
+	
 	public static void main(String[] args) {
 		
 		WhyGenerics gs = new WhyGenerics();
